@@ -1,0 +1,26 @@
+ body{
+    background-color:#f0f0f0;
+	margin: 0px;
+	font-family: "Open Sans", Helvetica,Arial;
+ }
+ .navbar.navbar-default{
+     margin:0px; 
+     background-color:#1c2630;
+	 border-radius:0px;
+	 }
+ .nav.navbar-nav.bnav li a:link,a:visited
+ {
+    color:#2196f3;
+ }
+ .nav.navbar-nav.bnav li a:hover,a:active
+ {
+    color:#f25333;
+ }
+ .nav.navbar-nav{
+    color:#555555;}
+.nav.navbar-nav  li a:hover,a:active
+{
+    color:black;
+}
+h3,h4,p{
+font-family: Open Sans,Helvetica,Arial;}
